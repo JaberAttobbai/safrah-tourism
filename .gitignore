@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+/node_modules/
+/lib/
+.bsb.lock
+>>>>>>> 39ec7e0bb9ebf47da58d6b707b1f3d9811dae716
